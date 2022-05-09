@@ -3,7 +3,7 @@ A simple network pratice with GNS3 and virtualization
 
 To run this practice, you'll need to create a virtual network that can access your real network, 
 on Windows you can simply download the loopback driver and make the wifi interface accept an interaction with the loopback (In case of localhost error, try to access cmd 
-and run the follow command: .
+and run the follow command: **net start npf**
 
 Auxiliary video: https://www.youtube.com/watch?v=01AeGKoiRtw
 
